@@ -51,15 +51,15 @@ Physical 100 fans:
 
 ### Mockups
 
-![](home-contestants.png)
+![](/public/mockups/home-contestants.png)
 
-![](contestant-details.png)
+![](/public/mockups/contestant-details.png)
 
-![](challenges.png)
+![](/public/mockups/challenges.png)
 
-![](challenge-details.png)
+![](/public/mockups/challenge-details.png)
 
-![](edit.png)
+![](/public/mockups/edit.png)
 
 ### Data
 
