@@ -12,11 +12,20 @@ const index = async (_req, res) => {
 
 const findOne = async (req, res) => {
     try {
-      res.send(`Retrieved challenge with id ${req.params.id}`)
-    } catch (error) {
-      console.log(error);
-      res.send(`Error retrieving challenge with id ${req.params.id}`)
-    }
+        const challenge = await knex("challenges")
+          .where({ id: req.params.id });
+  
+        if (challenge.length === 0) {
+          return res.status(404).json({
+              message: `Challenge with ID ${req.params.id} not found`
+          });
+        }
+
+        res.status(200).json(challenge);
+      } catch (error) {
+        console.log(error);
+        res.status(500).json(`Unable to retrieve challenge with ID ${req.params.id}`)
+      }
   };
 
 const update = async (req, res) => {

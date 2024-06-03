@@ -12,10 +12,20 @@ const index = async (_req, res) => {
 
 const findOne = async (req, res) => {
     try {
-      res.send(`Retrieved contestant with id ${req.params.id}`)
+      const contestant = await knex("contestants")
+        .where({ id: req.params.id })
+        .first();
+
+      if (!contestant) {
+        return res.status(404).json({
+            message: `Contestant with ID ${req.params.id} not found`
+        });
+      }
+
+      res.status(200).json(contestant);
     } catch (error) {
       console.log(error);
-      res.send(`Error retrieving contestant with id ${req.params.id}`)
+      res.status(500).json(`Unable to retrieve contestant with ID ${req.params.id}`)
     }
   };
 
