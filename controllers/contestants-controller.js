@@ -1,10 +1,12 @@
+const knex = require("knex")(require("../knexfile"));
 
 const index = async (_req, res) => {
     try {
-        res.send(`Retrieved all contestants`)
+        const data = await knex("contestants");
+        res.status(200).json(data);
     } catch (error) {
         console.log(error);
-        res.send(`Error retrieving contestants`)
+        res.status(500).send(`Error retrieving contestants`)
     }
 };
 
