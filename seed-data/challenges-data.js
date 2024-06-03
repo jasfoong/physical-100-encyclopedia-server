@@ -1,7 +1,7 @@
-[
+module.exports = [
     {
         id: 1,
-        name: "Quest 0: Manual Teadmill Running",
+        name: "Quest 0: Manual Treadmill Running",
         season: 2,
         team: false,
         photo: "/images/challenges/s2-q0-manual-treadmill-running.jpg",
