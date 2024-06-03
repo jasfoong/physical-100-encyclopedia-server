@@ -8,6 +8,6 @@ router
 router
     .route("/:id")
     .get(contestantsController.findOne)
-    .patch(contestantsController.update)
+    .put(contestantsController.update)
 
 module.exports = router;
