@@ -39,4 +39,36 @@ module.exports = [
         photo: "images/challenges/s2-q3-mine-transportation.jpg",
         description: "There are four rounds in the Mine Transportation Match. For each round, the team that places first gets three points, second gets two, and third gets one. At the end of Quest 3, the team with the least amount of points gets eliminated. Round 1 is a two-person minecraft haul. The first person secures as much weight as possible at the end of a track before pushing the minecraft back to the starting point and unloading. The second person will go back and add more weight to total two tons. The team to finish first wins. Round 2 is the exact same, except it involves only one team member. Round 3 is a two-person mid-air transit. A weighted bag suspended on monkey bars must be pushed to the endpoint. Once the contestant reaches the end, they must hurry back to their starting point through the same monkey bars. Round 4 is the same, with only one team member."
     },
+    {
+        id: 6,
+        name: "Quest 4: Intrateam Survival",
+        season: 2,
+        team: false,
+        photo: "images/challenges/s2-q4-intrateam-survival.jpeg",
+        description: "The remaining teams were thrown a curveball when the voice announced the teammates would be going against each other. Only one of each team will make it to the final quest. The challenge is simple but requires endurance and strength. The first-come roller race requires each team member to haul a roller across a field with humps and a water ditch. Each roller weighs 150kg (330lbs) and has straps for the contestants to secure to themselves to pull it. Each contestant must haul the roller across the field, run back to the starting point, and haul a second roller. They must try to outbeat each other in speed and time and run back to the starting point as quickly as possible. The person unable to complete the challenge or come in last is eliminated. Each team would go through four rounds until only one person remains."
+    },
+    {
+        id: 7,
+        name: "Quest 5.1: Torso Hold",
+        season: 2,
+        team: false,
+        photo: "images/challenges/s2-q5.1-torso-hold.jpeg",
+        description: "Similar to the redemption challenge in Season 1, each contest holds a rope connected to a pulley and their plaster torso plus additional weight adding up to 40% of their body weight. The first person to drop their plaster torso is eliminated.Justin Harvey was eliminated."
+    },
+    {
+        id: 8,
+        name: "Quest 5.2: Infinite Squats",
+        season: 2,
+        team: false,
+        photo: "images/challenges/s2-q5.2-infinite-squats.jpeg",
+        description: "Round 2 of the final quest was tied into the theme of the series. The final three contestants had to perform 30 weighted squats in each round until one calls it quits. But there was an added challenge. A conveyor belt would add real coal after each round to add more weight, making each set of 30 squats more difficult than the last. Andrew Jin was eliminated."
+    },
+    {
+        id: 9,
+        name: "Quest 5.3: Pole Push",
+        season: 2,
+        team: false,
+        photo: "images/challenges/s2-q5.3-pole-push.jpeg",
+        description: "The final two contestants enter a dome with a long metal pole that swings around. The goal is simple with one contestant on each end of the pole. When the bell rings, the contestants will push against each other. Their goal is to out win the other and move the pole around to knock over a post. The first person to knock down two wins Physical 100 Season 2. Hong Beom-seok won the first round. Amotti won the second round. Amotti won the third round. Hong Beom-seok was eliminated. Amotti won the title of Physical 100 Champion."
+    },
 ]

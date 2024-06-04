@@ -4,7 +4,7 @@ module.exports = [
         name: "Kim Dong Hyun (Cicada)",
         season: 2,
         career: "Pro MMA Fighter (Retired)",
-        photo: "images/contestants/s2-kim-dong-hyun.png",
+        photo: "images/contestants/s2-kim-dong-hyun-cicada.png",
         description: "Former #6 ranking in world UFC's welterweight division. Married to longtime girlfriend and have three children. Popular for his fun, goofy personality on variety shows."
     },
     {
@@ -94,5 +94,149 @@ module.exports = [
         career: "US Army Major",
         photo: "images/contestants/s2-gibson.png",
         description: "Lives in the states with wife and two children. Gibson is a United States Army Officer from the 411th Contracting Support Brigade at Camp Humphreys and is a powerlifter. Gibson made it to Round 4. "
+    },
+    {
+        id: 13,
+        name: "Seol Young Ho",
+        season: 2,
+        career: "Pro Heavyweight MMA Fighter",
+        photo: "images/contestants/s2-seol-young-ho.png",
+        description: "Seol went up aganinst his teammates in Round 4 but lost. His Instagram reveals he's back to training as a fighter."
+    },
+    {
+        id: 14,
+        name: "Jo Sung Bin",
+        season: 2,
+        career: "Pro Featherweight MMA Fighter",
+        photo: "images/contestants/s2-jo-sung-bin.png",
+        description: "Also runs a Kickboxing & Jiu Jitsu Studio."
+    },
+    {
+        id: 15,
+        name: "Mo Tae Bum",
+        season: 2,
+        career: "National Speed Skater (Retired)",
+        photo: "images/contestants/s2-mo-tae-bum.png",
+        description: "1x Olympic Gold Medalist, 1x Silver Gold Medalist. Multiple medals in World, Winter Universiade, and Asian Winter Games. Featured on various Korean variety shows."
+    },
+    {
+        id: 16,
+        name: "Chang Yong Heung",
+        season: 2,
+        career: "National Rugby Player",
+        photo: "images/contestants/s2-chang-yong-heung.png",
+        description: "1x Silver Medalist & 1x Bronze Medalist for Asian Games."
+    },
+    {
+        id: 17,
+        name: "Hong Hyeon Jun",
+        season: 2,
+        career: "Pro Golfer",
+        photo: "images/contestants/s2-hong-hyeon-jun.png",
+        description: "WLD World Long drive player. 2021's longest drive with 471 yards."
+    },
+    {
+        id: 18,
+        name: "Kim Dong Hyun",
+        season: 2,
+        career: "National Bobsledder",
+        photo: "images/contestants/s2-kim-dong-hyun.png",
+        description: "1x Olympic Silver Medalist, First Korean (with team) to win a medal in bobsleigh event."
+    },
+    {
+        id: 19,
+        name: "Lee Jang Kun",
+        season: 2,
+        career: "National Kabbadi Player",
+        photo: "images/contestants/s2-lee-jang-kun.png",
+        description: "1x Silver & 1x Bronze Asian Games Medalist, 1x Bronze World Cup Medalist, 1x Bronze Asian Indoor Martial Arts Medalist. Married to fitness model wife."
+    },
+    {
+        id: 20,
+        name: "Kim Hyeong Kyu",
+        season: 2,
+        career: "Pro Boxer",
+        photo: "images/contestants/s2-kim-hyeong-kyu.png",
+        description: "2x Asian Game Gold Medalist."
+    },
+    {
+        id: 21,
+        name: "Park Hee Jun",
+        season: 2,
+        career: "National Karate Player",
+        photo: "images/contestants/s2-park-hee-jun.png",
+        description: "1x Asian Games Bronze Medalist, First Korean to win medal in Kata at Asian Games."
+    },
+    {
+        id: 22,
+        name: "Hwang Chan Seob",
+        season: 2,
+        career: "Ssireum Athlete",
+        photo: "images/contestants/s2-hwang-chan-seob.png",
+        description: "Traditional Korean wrestling. Won 1st and 3rd in local Ssireum competitions."
+    },
+    {
+        id: 23,
+        name: "Kim Do Hyeon",
+        season: 2,
+        career: "Heavyweight Division Boxer",
+        photo: "images/contestants/s2-kim-do-hyeon.png",
+        description: "He fights in the heavyweight division and has appeared in other shows such as Running Man, Let's Play Soccer, Steel Troops, and more. He was part of Amotti's first team, but was saldy eliminated and didn't make it through the redemption challenge."
+    },
+    {
+        id: 24,
+        name: "Joo Min Kyung",
+        season: 2,
+        career: "National Arm Wrestler",
+        photo: "images/contestants/s2-joo-min-kyung.png",
+        description: "Winner of JTBC Show Arm Wrestling Competition. Runs and mentors an Arm Wrestling Studio."
+    },
+    {
+        id: 25,
+        name: "Ham Young Jin",
+        season: 2,
+        career: "Former National Judo Player. Current Police Officer.",
+        photo: "images/contestants/s2-ham-young-jin.png",
+        description: "Ham Young-jin joined Physical 100 Season 2 thanks to his experience as a police officer and his skill in judo. He was a former national judo team athlete and went on a special track to becoming an officer thanks to his martial arts background. He was eliminated in Round 3."
+    },
+    {
+        id: 26,
+        name: "Ha Moo Kyung",
+        season: 2,
+        career: "Handball Player",
+        photo: "images/contestants/s2-ha-moo-kyung.png",
+        description: "Ha went pretty far in the series with his team, but was soon eliminated. He's back to playing tournaments as a handball player."
+    },
+    {
+        id: 27,
+        name: "Seo Young Woo",
+        season: 2,
+        career: "National Bobsledder",
+        photo: "images/contestants/s2-seo-young-woo.png",
+        description: "Seo Young-woo is a Korean bobsledder. As part of a two-man team, his role is as the brakeman with his teammate as the pilot. He has competed in the 2014 Winter Olympics, IBSF World Championships, and the World Cup."
+    },
+    {
+        id: 28,
+        name: "Eom Dae Hyun",
+        season: 2,
+        career: "National Parkour Athlete",
+        photo: "images/contestants/s2-eom-dae-hyun.png",
+        description: "Eom was originally part of Thanos's team but was also eliminated during the maze match. He was unable to return in the redemption challenge."
+    },
+    {
+        id: 29,
+        name: "Lee Jun Ha",
+        season: 2,
+        career: "American Football Player",
+        photo: "images/contestants/s2-lee-jun-ha.png",
+        description: "A welcome mix to the roster was American football athlete Lee Jun-ha. He didn't make it to the final rounds, however."
+    },
+    {
+        id: 30,
+        name: "Choi Won Jae",
+        season: 2,
+        career: "National Cheerleading Team Athlete",
+        photo: "images/contestants/s2-choi-won-jae.png",
+        description: "National cheerleading team athlete."
     },
 ]
