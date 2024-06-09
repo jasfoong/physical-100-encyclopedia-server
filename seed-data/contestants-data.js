@@ -176,7 +176,7 @@ module.exports = [
         career: "Special Forces (Retired), Firefighter",
         career_category: "First Responder",
         photo: "images/contestants/s2-hong-beom-seok.png",
-        description: "Enlisted in the Special Warfare Command in 2006 and eventually ended special forces career as a sergeant in 2017. Was appointed Firefighter as a Rescue Specialist and won 2018 World Firefighter Competition beating 150 firefighters in a four-day event. Also participated in the intense special forces competition show 'The Soldiers.' Married with two sons.",
+        description: "Enlisted in the Special Warfare Command in 2006 and eventually ended special forces career as a sergeant in 2017. Was appointed Firefighter as a Rescue Specialist and won 2018 World Firefighter Competition beating 150 firefighters in a four-day event. He was discharged as a sergeant in 2017 and appointed as a firefighter and a rescue specialist. In 2022, he quit being a firefighter to take part in a competition series. Hong redeemed himself during in Physical 100 Season 2. He went on to be one of the main team captains and secured himself as a favorite among fans. Also participated in the intense special forces competition show 'The Soldiers.' Married with two sons.",
         stats: {
             strength: 85,
             endurance: 100,
@@ -1272,6 +1272,431 @@ module.exports = [
             special_skills: "Speed Skating",
             wins: 10,
             losses: 5
+        }
+    },
+    {
+        id: 76,
+        name: "Shin Soo Ji",
+        season: 2,
+        career: "Rhythmic Gymnast",
+        career_category: "Athlete",
+        photo: "images/contestants/s2-shin-soo-ji.png",
+        description: "Shin is a national rhythmic gymnast and bowler. She was the first Korean to qualify for the All-around finale at the World Championships. In her career, she joined the 2008 Beijing Olympics but didn't reach the final 10. Shin also won a bronze medal in All-around at the 2009 Asian Championships. After retiring from the sport, she became a commentator. She was eliminated by Park Ha-yan.",
+        stats: {
+            strength: 40,
+            endurance: 70,
+            speed: 60,
+            special_skills: "Gymnastics",
+            wins: 1,
+            losses: 2
+        }
+    },
+    {
+        id: 77,
+        name: "Sim Yu Ri",
+        season: 2,
+        career: "MMA Fighter",
+        career_category: "Athlete",
+        photo: "images/contestants/s2-sim-yu-ri.png",
+        description: "Sim is an MMA fighter, as well as a Road FC Champion and CrossFit Coach. She was eliminated in Round 2. Since her elimination, Yu-ri has continued to train as a fighter, and endorsed Nike for a campaign.",
+        stats: {
+            strength: 40,
+            endurance: 70,
+            speed: 60,
+            special_skills: "Gymnastics",
+            wins: 1,
+            losses: 2
+        }
+    },
+    {
+        id: 78,
+        name: "Power Who YAMI",
+        season: 2,
+        career: "Cosplayer",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-power-who-yami.png",
+        description: "A huge anime fan, cosplayer Power Who YAMI was eliminated in Round 4. Since the competition, he has taken to Instagram to show off some of his latest cosplays. Everything from Dragon Ball Z, Kimetsu no Yaiba, Attack on Titan, and Hagaren.",
+        stats: {
+            strength: 70,
+            endurance: 70,
+            speed: 50,
+            special_skills: "Cosplaying",
+            wins: 5,
+            losses: 2
+        }
+    },
+    {
+        id: 79,
+        name: "Kang Min Su",
+        season: 2,
+        career: "National Sports Climber",
+        career_category: "Athlete",
+        photo: "images/contestants/s2-kang-min-su.png",
+        description: "A passionate climber eliminated early on in the show.",
+        stats: {
+            strength: 80,
+            endurance: 70,
+            speed: 50,
+            special_skills: "Climbing",
+            wins: 1,
+            losses: 2
+        }
+    },
+    {
+        id: 80,
+        name: "Park Yeon Su",
+        season: 2,
+        career: "National Powerlifter",
+        career_category: "Athlete",
+        photo: "images/contestants/s2-park-yeon-su.png",
+        description: "Park is back in the gym training and has posted photos of attending the Netflix event with the rest of the cast.",
+        stats: {
+            strength: 80,
+            endurance: 70,
+            speed: 50,
+            special_skills: "Powerlifting",
+            wins: 1,
+            losses: 2
+        }
+    },
+    {
+        id: 81,
+        name: "Lee Ye Joo",
+        season: 2,
+        career: "National Kurash Athlete",
+        career_category: "Athlete",
+        photo: "images/contestants/s2-lee-ye-joo.png",
+        description: "Lee Ye-joo is a national Kurash athlete who competed in the series to see if her years of training would pay off. She didn't last to the final stages.",
+        stats: {
+            strength: 50,
+            endurance: 70,
+            speed: 70,
+            special_skills: "Kurash",
+            wins: 1,
+            losses: 2
+        }
+    },
+    {
+        id: 82,
+        name: "Jo Ha Rang",
+        season: 2,
+        career: "National Handball Player",
+        career_category: "Athlete",
+        photo: "images/contestants/s2-jo-ha-rang.png",
+        description: "National handball player Jo Ha-rang participated in the 2017 World Women's Handball Championship. She was a part of the women's national handball team in the 2020 Olympics. She was a part of Hwang Choong-won's team and was eliminated in the maze quest.",
+        stats: {
+            strength: 50,
+            endurance: 70,
+            speed: 70,
+            special_skills: "Handball",
+            wins: 3,
+            losses: 2
+        }
+    },
+    {
+        id: 83,
+        name: "Heo Kyung Hee",
+        season: 2,
+        career: "National Rugby Player",
+        career_category: "Athlete",
+        photo: "images/contestants/s2-heo-kyung-hee.png",
+        description: "Heo Kyung-hee has an impressive backstory. She was once a former model and is now a member of the women's rugby team. Before rugby, she was a track and field athlete but suffered an injury that derailed her career. She also joined the cast of Season 3 of Korea's Next Top Model. In 2014, she joined the rugby team and plays soccer.",
+        stats: {
+            strength: 60,
+            endurance: 80,
+            speed: 70,
+            special_skills: "Rugby",
+            wins: 3,
+            losses: 2
+        }
+    },
+    {
+        id: 84,
+        name: "Lee Hyun Jin",
+        season: 2,
+        career: "Actor",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-lee-hyun-jin.png",
+        description: "In 2022, he starred as the lead in the K-drama Gold Mask and supporting roles in SKY Castle, Dinner Mate, and Inspector Koo.",
+        stats: {
+            strength: 60,
+            endurance: 60,
+            speed: 50,
+            special_skills: "Acting",
+            wins: 3,
+            losses: 2
+        }
+    },
+    {
+        id: 85,
+        name: "Kim Ki Hyuk",
+        season: 2,
+        career: "Announcer",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-kim-ki-hyuk.png",
+        description: "Announcer Kim Ki-hyuk appeared as a contestant in the MBC show New Employee and finished in 6th place. He was an announcer for several sports with MBN in 2012 until becoming a broadcaster in 2020. He's now associated with Studio LuluLala.",
+        stats: {
+            strength: 60,
+            endurance: 60,
+            speed: 50,
+            special_skills: "Broadcasting",
+            wins: 2,
+            losses: 2
+        }
+    },
+    {
+        id: 86,
+        name: "Kim Amugae",
+        season: 2,
+        career: "YouTuber",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-kim-amugae.png",
+        description: "Kim is a known YouTuber and a professional fighter. In the series, he was eliminated during the relay challenge and didn’t make it through the redemption challenge.",
+        stats: {
+            strength: 60,
+            endurance: 80,
+            speed: 60,
+            special_skills: "Fighting",
+            wins: 0,
+            losses: 2
+        }
+    },
+    {
+        id: 87,
+        name: "Ahn Sung Hwan",
+        season: 2,
+        career: "CEO",
+        career_category: "Other",
+        photo: "images/contestants/s2-ahn-sung-hwan.png",
+        description: "Ahn Sung-hwan is the CEO of a Food Service Company. He owns a few food establishments like restaurants and has appeared on various variety shows as an entrepreneur. He's also an avid gym goer who prides himself in his physique. He was eliminated early on in the competition.",
+        stats: {
+            strength: 60,
+            endurance: 50,
+            speed: 60,
+            special_skills: "Business Operations",
+            wins: 0,
+            losses: 2
+        }
+    },
+    {
+        id: 88,
+        name: "Sim Sung Eon",
+        season: 2,
+        career: "Nurse",
+        career_category: "Other",
+        photo: "images/contestants/s2-sim-sung-eon.png",
+        description: "He didn't make it to the finals.",
+        stats: {
+            strength: 60,
+            endurance: 50,
+            speed: 60,
+            special_skills: "Nursing",
+            wins: 0,
+            losses: 1
+        }
+    },
+    {
+        id: 89,
+        name: "Son Yeong Seok",
+        season: 2,
+        career: "Office Worker",
+        career_category: "Other",
+        photo: "images/contestants/s2-son-yeong-seok.png",
+        description: "Every type of person got involved in season 2 of the competition series, including office worker Son Yeong-seok. He was eliminated in the one-on-one death match.",
+        stats: {
+            strength: 50,
+            endurance: 50,
+            speed: 60,
+            special_skills: "Administration",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 90,
+        name: "Yoon Han Jin",
+        season: 2,
+        career: "Physical Education Student",
+        career_category: "Other",
+        photo: "images/contestants/s2-yoon-han-jin.png",
+        description: "Yoon Han-jin is a college student specializing in Physical Education at Yongin University. He has a popular YouTube channel where he shares mukbangs, his workout routine, and more. ",
+        stats: {
+            strength: 50,
+            endurance: 50,
+            speed: 60,
+            special_skills: "Physical Education",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 91,
+        name: "Jang Yoon Sung",
+        season: 2,
+        career: "CEO",
+        career_category: "Other",
+        photo: "images/contestants/s2-jang-yoon-sung.png",
+        description: "Jang Yoon-sung has been on a few Korean variety shows and a dating series. Besides being a personal trainer and avid gym goer, he's also the CEO of Bears Coffee which makes unique cookies. Yoon-sung was also eliminated early one and went back to his daily life running his cafe business. He's also joined ManHunt International representing South Korea.",
+        stats: {
+            strength: 50,
+            endurance: 50,
+            speed: 60,
+            special_skills: "Business Operations",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 92,
+        name: "Jo Han",
+        season: 2,
+        career: "Sports and Leisure Student",
+        career_category: "Other",
+        photo: "images/contestants/s2-jo-han.png",
+        description: "He was eliminated in the in the one-on-one challenge. After the series, he also attended the press events with the cast and has done some modeling work for some skincare brands.",
+        stats: {
+            strength: 50,
+            endurance: 50,
+            speed: 60,
+            special_skills: "Sports and Leisure Studies",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 93,
+        name: "Im Su Jeong",
+        season: 2,
+        career: "Ssireum Athlete",
+        career_category: "Athlete",
+        photo: "images/contestants/s2-im-su-jeong.png",
+        description: "Her resistance and strength in the Korean wrestling sport might be an advantage but she was eliminted early in the show. She also competed as part of the National Kabbadi Team during the 2010 Asian Games.",
+        stats: {
+            strength: 50,
+            endurance: 50,
+            speed: 60,
+            special_skills: "Ssireum",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 94,
+        name: "Choi Soo In",
+        season: 2,
+        career: "Brazilian Jiu Jitsu Athlete",
+        career_category: "Athlete",
+        photo: "images/contestants/s2-choi-soo-in.png",
+        description: "Choi started the sport on a whim and began to train. She recently won the national athletic competition and became a South Korean representative.",
+        stats: {
+            strength: 50,
+            endurance: 50,
+            speed: 60,
+            special_skills: "Brazilian Jiu Jitsu",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 95,
+        name: "Kwon Ga Young",
+        season: 2,
+        career: "Fitness Model",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-kwon-ga-young.png",
+        description: "Kwon was eliminated early in the show.",
+        stats: {
+            strength: 50,
+            endurance: 50,
+            speed: 60,
+            special_skills: "Modeling",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 96,
+        name: "GPT",
+        season: 2,
+        career: "YouTuber",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-gpt.png",
+        description: "Kwon was eliminated early in the show. He's back to posting fitness videos on YouTube.",
+        stats: {
+            strength: 50,
+            endurance: 50,
+            speed: 60,
+            special_skills: "YouTube",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 97,
+        name: "Jeon Jong Hyeok",
+        season: 2,
+        career: "Singer",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-jeon-jong-hyeok.png",
+        description: "Jeon Jong-hyeok is a soccer player, in the position of goalkeeper. He competed in the singing reality show 'Burning Trotman' where he placed 12th overall. Netflix tagged him as a trot singer for the competition series. He didn't make it to the final rounds.",
+        stats: {
+            strength: 50,
+            endurance: 75,
+            speed: 60,
+            special_skills: "Soccer",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 98,
+        name: "Kang Seung Min",
+        season: 2,
+        career: "YouTuber",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-kang-seung-min.png",
+        description: "Kang Seung-min joins the Netflix competition series as a YouTuber and has a Ph.D in Engineering. His impressive size was an advantage and hindrance in the challenges. He can deadlift 300kg.",
+        stats: {
+            strength: 100,
+            endurance: 75,
+            speed: 60,
+            special_skills: "Weightlifting",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 99,
+        name: "Kim Woo Joo",
+        season: 2,
+        career: "Model",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-kim-woo-joo.png",
+        description: "Kim Woo-joo is a Korean freelance model. He didn't make it to the last leg of the show.",
+        stats: {
+            strength: 50,
+            endurance: 45,
+            speed: 30,
+            special_skills: "Modeling",
+            wins: 1,
+            losses: 1
+        }
+    },
+    {
+        id: 100,
+        name: "No Seung Hyuk",
+        season: 2,
+        career: "Dancer",
+        career_category: "Entertainer",
+        photo: "images/contestants/s2-no-seung-hyuk.png",
+        description: "No Seung-hyuk is a contemporary dance artist and freelance model. He didn't make it to the finals. But his Instagram shows him working as a model attending shows for Crocs, Coach, and OffRoad.",
+        stats: {
+            strength: 30,
+            endurance: 65,
+            speed: 30,
+            special_skills: "Dance",
+            wins: 1,
+            losses: 1
         }
     },
 ]
