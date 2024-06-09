@@ -3,20 +3,16 @@
 
 Your one-stop-shop for everything about the South Korean reality competition series on Netflix — Physical 100.
 
+This is the server for the web app, which provides an API for getting and editing contestants and challenges on the app.
+
 ## Overview
 
 The web app is an immersion into the world of all things Physical 100. Users can reference all contestants and challenges in the show. Users can also edit articles about any contestant or challenge, encouraging a culture of open source knowledge.
 
-This is the server for the web app, which provides an API for getting and editing contestants and challenges on the app.
-
 ## Features
 
-- View all contestants, sort alphabetically, or sort by career category
-- View and edit a contestant's name or description
-- View all challenges, sort alphabetically, or sort by team/solo challenge
-- View and edit a challenge's name or description
-- View contestants' individual stats on their designated pages; or view stats overview on a stats page
-- Responsive design 
+- **RESTful API**: Provides endpoints for managing contestants, challenges, and stats
+- **Database Integration**: Connects to a mySQL database to persist contestant and challenge data
 
 ## Tech Stack
 
@@ -39,7 +35,7 @@ Ensure you also have a mySQL database set up.
 **Clone the project server and enter the project directory**
 
 ```
-  git clone https://github.com/jasfoong/physical-100-encyclopedia-server
+  git clone https://github.com/jasfoong/physical-100-encyclopedia-server.git
 
   cd physical-100-encyclopedia-server
 ```
@@ -72,6 +68,11 @@ Run the database migrations to set up the schema:
 
 ```
   npm run migrate
+```
+
+Seed the database with initial data:
+```
+  npm run seed
 ```
 
 **Start the server**
