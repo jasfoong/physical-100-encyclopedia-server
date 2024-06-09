@@ -84,4 +84,4 @@ Run the database migrations to set up the schema:
 
 Once the server is running, you can access the API at `http://localhost:your_port`
 
-With the server running, see instructions from the client repo on how to run the app: https://github.com/jasfoong/physical-100-encyclopedia-server
+With the server running, see instructions from the client repo on how to run the app: https://github.com/jasfoong/physical-100-encyclopedia-client
