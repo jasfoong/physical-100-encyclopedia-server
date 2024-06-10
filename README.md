@@ -206,3 +206,8 @@ Seed the database with initial data:
 Once the server is running, you can access the API at `http://localhost:your_port`
 
 With the server running, see instructions from the client repo on how to run the app: https://github.com/jasfoong/physical-100-encyclopedia-client
+
+# Next Steps
+I'm still quite new to databases and knex, so I appreciate all your feedback about my data and API setups. 
+
+The upcoming feature on this repo is a join table for challenges and contestants as I'll eventually render the challenges won by each contestant in the app.
