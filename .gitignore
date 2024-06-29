@@ -1,7 +1,3 @@
 .DS_Store
 node_modules
 .env
-
-20240607213506_create-challenge-contestants-won.js
-challenges-contestants-data.js
-challenges_contestants.js

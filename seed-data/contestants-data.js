@@ -12,8 +12,6 @@ module.exports = [
             endurance: 50,
             speed: 40,
             special_skills: "MMA",
-            wins: 3,
-            losses: 4
         }
     },
     {
@@ -29,8 +27,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Judo",
-            wins: 4,
-            losses: 5
         }
     },
     {
@@ -46,8 +42,6 @@ module.exports = [
             endurance: 90,
             speed: 80,
             special_skills: "Wrestling",
-            wins: 5,
-            losses: 2
         }
     },
     {
@@ -63,8 +57,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Soccer",
-            wins: 3,
-            losses: 3
         }
     },
     {
@@ -80,8 +72,6 @@ module.exports = [
             endurance: 85,
             speed: 70,
             special_skills: "Rugby",
-            wins: 7,
-            losses: 3
         }
     },
     {
@@ -97,8 +87,6 @@ module.exports = [
             endurance: 85,
             speed: 65,
             special_skills: "Rowing",
-            wins: 6,
-            losses: 4
         }
     },
     {
@@ -114,8 +102,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Bodybuilding",
-            wins: 6,
-            losses: 4
         }
     },
     {
@@ -131,8 +117,6 @@ module.exports = [
             endurance: 100,
             speed: 85,
             special_skills: "Crossfit",
-            wins: 9,
-            losses: 4
         }
     },
     {
@@ -148,8 +132,6 @@ module.exports = [
             endurance: 65,
             speed: 55,
             special_skills: "Bodybuilding",
-            wins: 2,
-            losses: 3
         }
     },
     {
@@ -165,8 +147,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Bodybuilding",
-            wins: 7,
-            losses: 3
         }
     },
     {
@@ -177,13 +157,13 @@ module.exports = [
         career_category: "First Responder",
         photo: "images/contestants/s2-hong-beom-seok.png",
         description: "Enlisted in the Special Warfare Command in 2006 and eventually ended special forces career as a sergeant in 2017. Was appointed Firefighter as a Rescue Specialist and won 2018 World Firefighter Competition beating 150 firefighters in a four-day event. He was discharged as a sergeant in 2017 and appointed as a firefighter and a rescue specialist. In 2022, he quit being a firefighter to take part in a competition series. Hong redeemed himself during in Physical 100 Season 2. He went on to be one of the main team captains and secured himself as a favorite among fans. Also participated in the intense special forces competition show 'The Soldiers.' Married with two sons.",
+        body: "181cm / 77kg",
+        instagram: "https://www.instagram.com/hongbeomseok_",
         stats: {
             strength: 85,
             endurance: 100,
             speed: 70,
             special_skills: "Rescue Operations",
-            wins: 10,
-            losses: 4
         }
     },
     {
@@ -199,8 +179,6 @@ module.exports = [
             endurance: 85,
             speed: 60,
             special_skills: "Military Training",
-            wins: 7,
-            losses: 4
         }
     },
     {
@@ -216,8 +194,6 @@ module.exports = [
             endurance: 65,
             speed: 50,
             special_skills: "MMA",
-            wins: 6,
-            losses: 5
         }
     },
     {
@@ -233,8 +209,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "MMA",
-            wins: 8,
-            losses: 6
         }
     },
     {
@@ -250,8 +224,6 @@ module.exports = [
             endurance: 85,
             speed: 90,
             special_skills: "Speed Skating",
-            wins: 30,
-            losses: 10
         }
     },
     {
@@ -267,8 +239,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "Rugby",
-            wins: 5,
-            losses: 5
         }
     },
     {
@@ -284,8 +254,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "Golf",
-            wins: 4,
-            losses: 5
         }
     },
     {
@@ -301,8 +269,6 @@ module.exports = [
             endurance: 80,
             speed: 75,
             special_skills: "Bobsledding",
-            wins: 4,
-            losses: 6
         }
     },
     {
@@ -318,8 +284,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Kabbadi",
-            wins: 5,
-            losses: 4
         }
     },
     {
@@ -335,8 +299,6 @@ module.exports = [
             endurance: 75,
             speed: 70,
             special_skills: "Boxing",
-            wins: 5,
-            losses: 5
         }
     },
     {
@@ -352,8 +314,6 @@ module.exports = [
             endurance: 75,
             speed: 65,
             special_skills: "Karate",
-            wins: 4,
-            losses: 4
         }
     },
     {
@@ -369,8 +329,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Ssireum",
-            wins: 4,
-            losses: 5
         }
     },
     {
@@ -386,8 +344,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Boxing",
-            wins: 4,
-            losses: 5
         }
     },
     {
@@ -403,8 +359,6 @@ module.exports = [
             endurance: 65,
             speed: 50,
             special_skills: "Arm Wrestling",
-            wins: 3,
-            losses: 2
         }
     },
     {
@@ -420,8 +374,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Judo",
-            wins: 4,
-            losses: 3
         }
     },
     {
@@ -437,8 +389,6 @@ module.exports = [
             endurance: 75,
             speed: 80,
             special_skills: "Handball",
-            wins: 12,
-            losses: 6
         }
     },
     {
@@ -454,8 +404,6 @@ module.exports = [
             endurance: 80,
             speed: 75,
             special_skills: "Bobsledding",
-            wins: 15,
-            losses: 6
         }
     },
     {
@@ -471,8 +419,6 @@ module.exports = [
             endurance: 80,
             speed: 90,
             special_skills: "Parkour",
-            wins: 12,
-            losses: 5
         }
     },
     {
@@ -488,8 +434,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "American Football",
-            wins: 15,
-            losses: 8
         }
     },
     {
@@ -505,8 +449,6 @@ module.exports = [
             endurance: 75,
             speed: 70,
             special_skills: "Cheerleading",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -522,8 +464,6 @@ module.exports = [
             endurance: 70,
             speed: 80,
             special_skills: "Taekkyon",
-            wins: 15,
-            losses: 7
         }
     },
     {
@@ -539,8 +479,6 @@ module.exports = [
             endurance: 80,
             speed: 85,
             special_skills: "Martial Arts Tricking",
-            wins: 12,
-            losses: 6
         }
     },
     {
@@ -556,8 +494,6 @@ module.exports = [
             endurance: 65,
             speed: 60,
             special_skills: "Wrestling",
-            wins: 20,
-            losses: 8
         }
     },
     {
@@ -573,8 +509,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "Wrestling",
-            wins: 12,
-            losses: 5
         }
     },
     {
@@ -590,8 +524,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Bodybuilding",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -607,8 +539,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Bodybuilding",
-            wins: 7,
-            losses: 3
         }
     },
     {
@@ -624,8 +554,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Personal Training",
-            wins: 12,
-            losses: 5
         }
     },
     {
@@ -641,8 +569,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Bodybuilding",
-            wins: 7,
-            losses: 3
         }
     },
     {
@@ -658,8 +584,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Streetlifting",
-            wins: 12,
-            losses: 4
         }
     },
     {
@@ -675,8 +599,6 @@ module.exports = [
             endurance: 65,
             speed: 60,
             special_skills: "Military Training",
-            wins: 8,
-            losses: 4
         }
     },
     {
@@ -692,8 +614,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "Rescue Operations",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -709,8 +629,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "Coast Guard Training",
-            wins: 12,
-            losses: 6
         }
     },
     {
@@ -726,8 +644,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "Military Training",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -743,8 +659,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "Jiu Jitsu",
-            wins: 15,
-            losses: 7
         }
     },
     {
@@ -760,8 +674,6 @@ module.exports = [
             endurance: 85,
             speed: 70,
             special_skills: "Crossfit",
-            wins: 18,
-            losses: 3
         }
     },
     {
@@ -777,8 +689,6 @@ module.exports = [
             endurance: 85,
             speed: 70,
             special_skills: "Crossfit",
-            wins: 18,
-            losses: 3
         }
     },
     {
@@ -794,8 +704,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Tree Climbing",
-            wins: 5,
-            losses: 2
         }
     },
     {
@@ -811,8 +719,6 @@ module.exports = [
             endurance: 70,
             speed: 65,
             special_skills: "Crossfit",
-            wins: 10,
-            losses: 4
         }
     },
     {
@@ -828,8 +734,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Firefighting",
-            wins: 12,
-            losses: 5
         }
     },
     {
@@ -845,8 +749,6 @@ module.exports = [
             endurance: 75,
             speed: 80,
             special_skills: "Stunt Performance",
-            wins: 10,
-            losses: 4
         }
     },
     {
@@ -862,8 +764,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Medicine",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -879,8 +779,6 @@ module.exports = [
             endurance: 85,
             speed: 90,
             special_skills: "Swimming",
-            wins: 25,
-            losses: 10
         }
     },
     {
@@ -896,8 +794,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Acting",
-            wins: 5,
-            losses: 2
         }
     },
     {
@@ -913,8 +809,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Business Operations",
-            wins: 8,
-            losses: 4
         }
     },
     {
@@ -930,8 +824,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Bodybuilding",
-            wins: 5,
-            losses: 2
         }
     },
     {
@@ -947,8 +839,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Jige Operations",
-            wins: 5,
-            losses: 3
         }
     },
     {
@@ -964,8 +854,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Modeling",
-            wins: 5,
-            losses: 3
         }
     },
     {
@@ -981,8 +869,6 @@ module.exports = [
             endurance: 70,
             speed: 80,
             special_skills: "Alpine Skiing",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -998,8 +884,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Carpentry",
-            wins: 5,
-            losses: 3
         }
     },
     {
@@ -1015,8 +899,6 @@ module.exports = [
             endurance: 65,
             speed: 55,
             special_skills: "Weightlifting",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1032,8 +914,6 @@ module.exports = [
             endurance: 65,
             speed: 55,
             special_skills: "Ballet",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1049,8 +929,6 @@ module.exports = [
             endurance: 65,
             speed: 50,
             special_skills: "Wushu Sando",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1066,8 +944,6 @@ module.exports = [
             endurance: 80,
             speed: 80,
             special_skills: "Track",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1083,8 +959,6 @@ module.exports = [
             endurance: 80,
             speed: 80,
             special_skills: "Longboarding",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1100,8 +974,6 @@ module.exports = [
             endurance: 80,
             speed: 80,
             special_skills: "Dance",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1117,8 +989,6 @@ module.exports = [
             endurance: 80,
             speed: 80,
             special_skills: "Modeling",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1134,8 +1004,6 @@ module.exports = [
             endurance: 80,
             speed: 80,
             special_skills: "Personal Training",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1151,8 +1019,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Jiu Jitsu",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1168,8 +1034,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Rapping",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1185,8 +1049,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Acting",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1202,8 +1064,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Bodybuilding",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1219,8 +1079,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Judo",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1236,8 +1094,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Handball",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1253,8 +1109,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Basketball",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1270,8 +1124,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Speed Skating",
-            wins: 10,
-            losses: 5
         }
     },
     {
@@ -1287,8 +1139,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Gymnastics",
-            wins: 1,
-            losses: 2
         }
     },
     {
@@ -1304,8 +1154,6 @@ module.exports = [
             endurance: 70,
             speed: 60,
             special_skills: "Gymnastics",
-            wins: 1,
-            losses: 2
         }
     },
     {
@@ -1321,8 +1169,6 @@ module.exports = [
             endurance: 70,
             speed: 50,
             special_skills: "Cosplaying",
-            wins: 5,
-            losses: 2
         }
     },
     {
@@ -1338,8 +1184,6 @@ module.exports = [
             endurance: 70,
             speed: 50,
             special_skills: "Climbing",
-            wins: 1,
-            losses: 2
         }
     },
     {
@@ -1355,8 +1199,6 @@ module.exports = [
             endurance: 70,
             speed: 50,
             special_skills: "Powerlifting",
-            wins: 1,
-            losses: 2
         }
     },
     {
@@ -1372,8 +1214,6 @@ module.exports = [
             endurance: 70,
             speed: 70,
             special_skills: "Kurash",
-            wins: 1,
-            losses: 2
         }
     },
     {
@@ -1389,8 +1229,6 @@ module.exports = [
             endurance: 70,
             speed: 70,
             special_skills: "Handball",
-            wins: 3,
-            losses: 2
         }
     },
     {
@@ -1406,8 +1244,6 @@ module.exports = [
             endurance: 80,
             speed: 70,
             special_skills: "Rugby",
-            wins: 3,
-            losses: 2
         }
     },
     {
@@ -1423,8 +1259,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Acting",
-            wins: 3,
-            losses: 2
         }
     },
     {
@@ -1440,8 +1274,6 @@ module.exports = [
             endurance: 60,
             speed: 50,
             special_skills: "Broadcasting",
-            wins: 2,
-            losses: 2
         }
     },
     {
@@ -1457,8 +1289,6 @@ module.exports = [
             endurance: 80,
             speed: 60,
             special_skills: "Fighting",
-            wins: 0,
-            losses: 2
         }
     },
     {
@@ -1474,8 +1304,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "Business Operations",
-            wins: 0,
-            losses: 2
         }
     },
     {
@@ -1491,8 +1319,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "Nursing",
-            wins: 0,
-            losses: 1
         }
     },
     {
@@ -1508,8 +1334,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "Administration",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1525,8 +1349,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "Physical Education",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1542,8 +1364,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "Business Operations",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1559,8 +1379,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "Sports and Leisure Studies",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1576,8 +1394,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "Ssireum",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1593,8 +1409,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "Brazilian Jiu Jitsu",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1610,8 +1424,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "Modeling",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1627,8 +1439,6 @@ module.exports = [
             endurance: 50,
             speed: 60,
             special_skills: "YouTube",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1644,8 +1454,6 @@ module.exports = [
             endurance: 75,
             speed: 60,
             special_skills: "Soccer",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1661,8 +1469,6 @@ module.exports = [
             endurance: 75,
             speed: 60,
             special_skills: "Weightlifting",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1678,8 +1484,6 @@ module.exports = [
             endurance: 45,
             speed: 30,
             special_skills: "Modeling",
-            wins: 1,
-            losses: 1
         }
     },
     {
@@ -1695,8 +1499,1026 @@ module.exports = [
             endurance: 65,
             speed: 30,
             special_skills: "Dance",
-            wins: 1,
-            losses: 1
+        }
+    },
+    {
+        id: 101,
+        name: "Cho Jung Myung / Jo Jeong Myeong",
+        season: 1,
+        career: "Luger",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-cho-jung-myung.png",
+        description: "He is a former soccer player who played for 10 years. He joined the Howon University soccer team but quit in his freshman year. His father, who is also an athlete, told Jo Jeong-myeong that the Korea Luge Federation was looking for new players at a university alumni association ahead of the 2018 Pyeongchang Winter Olympics . After that, with the help of coach Lee Chang-yong, he started luge in earnest in 2012 and participated in the national team selection and became a reserve member . He became a national team member in 2013. In an interview with Samyuk University, he said about the appeal of luge, “Above all, the biggest appeal is the fast speed. The speed reaches 140~150 km/h, but riding a car at the same speed and riding a sled are completely different. There is an exhilarating feeling of sensitivity as you control the sled and receive the speed with your bare body.",
+        body: "176cm / 74kg",
+        instagram: "https://www.instagram.com/chojungmyung",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Luge",
+        }
+    },
+    {
+        id: 102,
+        name: "Choi Hyun Mi",
+        season: 1,
+        career: "Boxer",
+        career_category: "Fighter",
+        photo: "images/contestants/s1-choi-hyun-mi.png",
+        description: "World Boxing Association women's featherweight and super featherweight champion. The super featherweight champion had a long run, successfully defending the title for the 10th time in 2022, but was classified as a champion in recess by the WBA due to injury and stepped down from the active champion position at the end of 2022. She is a North Korean defector from Pyongyang.",
+        body: "166cm / 57kg",
+        instagram: "https://www.instagram.com/hyunmi.choi.7",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Boxing",
+        }
+    },
+    {
+        id: 103,
+        name: "Dustin Nippert",
+        season: 1,
+        career: "Baseball Player",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-dustin-nippert.png",
+        description: "Born in West Virginia , USA , he is a German-American baseball player and former right-handed pitcher for the Doosan Bears and KT Wiz.He is the first foreign pitcher in the KBO League to have 100 career wins and 1,000 strikeouts, and is currently a broadcaster and coach of the Big Dream Academy in Yongin. He is currently settled and living in Korea , and in 2020, he established the 'Nippert Yongin Big Dream Baseball Academy' and directly runs baseball classes as a manager and coach.",
+        body: "203cm / 105kg",
+        instagram: "https://www.instagram.com/dnippert40",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Baseball",
+        }
+    },
+    {
+        id: 104,
+        name: "Jang Seong Min",
+        season: 1,
+        career: "Rugby Player",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-jang-seong-min.png",
+        description: "A former South Korean rugby player. His position is wing, but his large physique of 110 kg was an advantage. He made his debut in the 15-man Asian Rugby Championship at the young age of 20 while attending Korea University in 2012. He participated as a member of the national 7-man rugby team at the 2020 Tokyo Olympics. He retired relatively early in 2021 and has continued his activities as a commentator and other broadcasters. He has been arrested since March 2023 on charges of sexually assaulting his girlfriend in February 2023. The prosecution demanded 12 years in prison.The court sentenced him to 7 years in prison. He was also ordered to complete 80 hours of sexual violence treatment program. He played for NTT Docomo and POSCO E&C Rugby Team (now POSCO E&C Rugby Team ) as a player.",
+        body: "187cm / 110kg",
+        instagram: "https://www.instagram.com/jang000822",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Rugby",
+        }
+    },
+    {
+        id: 105,
+        name: "Jeong Bo Kyeong",
+        season: 1,
+        career: "Judoka",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-jeong-bo-kyeong.png",
+        description: "She is a South Korean judoka. Her special moves are backhand throws, shoulder throws, and sleeve throws. She won a silver medal at the 2016 Rio de Janeiro Olympics, achieving the best result in women's judo in 20 years. She started Taekwondo when he was 4. With her natural athletic ability, she became a Taekwondo representative, and she started Judo when she joined the sports club in her first year of middle school",
+        body: "153cm / 51kg",
+        instagram: "",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Judo",
+        }
+    },
+    {
+        id: 106,
+        name: "Kim Sik",
+        season: 1,
+        career: "National Bobsleigh and Skeleton Team Coach",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-kim-sik.png",
+        description: "Missing information",
+        body: "",
+        instagram: "https://www.instagram.com/sikkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Bobsleigh",
+        }
+    },
+    {
+        id: 107,
+        name: "Nam Kyung Jin",
+        season: 1,
+        career: "National Wrestler",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-nam-kyung-jin.png",
+        description: "He won a silver medal in the men's freestyle 120kg class at the 2009 Asian Senior Wrestling Championships. He appeared like a comet with bold plays and received much attention from the wrestling world. He won a valuable bronze medal by defeating a Mongolian athlete in the bronze medal match at the 2014 Asian Games held in Incheon. He continued to stand out in international competitions after 2018 and won a bronze medal at the 2018 Jakarta Palembang Asian Games.",
+        body: "178cm / 95kg",
+        instagram: "https://www.instagram.com/wrestler_nam/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Wrestling",
+        }
+    },
+    {
+        id: 108,
+        name: "Park Jin Yong",
+        season: 1,
+        career: "Luger",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-park-jin-yong.png",
+        description: "He is from Muju-gun, famous for winter sports, and was a biathlete until he entered Seolcheon High School. He changed his sport to luge in 2011, when his parents encouraged him to try luge when he was about to quit his sport in 2010, during his sophomore year of high school . He said, 'I was fascinated by the fast speed while watching the luge broadcast on TV at the 2010 Vancouver Winter Olympics,' and added, 'I applied right away when I saw the national team selection announcement in March of that year.' Since there is no dedicated stadium in Korea, he trained on the only sled with training wheels on the asphalt road. When he first lay down on the ice track, Jinyong Park said he felt like the ice track was wrapping around both sides of his head, making him feel like he was trapped in a coffin.",
+        body: "183cm / 91kg",
+        instagram: "https://www.instagram.com/parkjjinyong",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Luge",
+        }
+    },
+    {
+        id: 109,
+        name: "Park Seon Kwan",
+        season: 1,
+        career: "National Swimmer",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-park-seon-kwan.jpeg",
+        description: "In 2012 London Olympics Men's National Swimming Team. Silver medal in men's 400m medley relay swimming at the 16th Guangzhou Asian Games in 2010.",
+        body: "183cm / 71kg",
+        instagram: "https://www.instagram.com/seonkwan16/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Swimming",
+        }
+    },
+    {
+        id: 110,
+        name: "Woo Jin Yong",
+        season: 1,
+        career: "Crossfitter and Snowboarder",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-woo-jin-yong.jpeg",
+        description: "Champion of Physical 100 Season 1. He is a CrossFit athlete from South Korea. He is also a former national snowboard cross team member. It is said that his childhood dream was to become a physical education teacher. It's called the second stage of induction. Participated in the Ice Bucket Challenge in July 2023. He participated in the audition for the 3rd round of the 'Let's Eat Dinner Together' as a representative of the snowboarding athletes. He passed the first round with a unanimous approval from all three judges. However, he was substituted after the first half ended due to an injury in the second round of the actual test and did not make it to the final round.",
+        body: "174cm",
+        instagram: "https://www.instagram.com/jdsbx",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Crossfit",
+        }
+    },
+    {
+        id: 111,
+        name: "Yang Hak Seon",
+        season: 1,
+        career: "Gymnast",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-yang-hak-seon.png",
+        description: "His main event is vault. At the 2012 London Olympics, at the age of 19, he won the first gold medal in the history of Korean gymnastics in the vault event. In his first attempt, he showed a technique of 2 and received a large deduction for his landing, but he received a high score due to his high level of difficulty. In his second attempt, he perfectly executed the 'Tsukahara Triple (Lopez)' move with a difficulty level of 7.0, and won the gold medal.",
+        body: "159cm / 53kg",
+        instagram: "https://www.instagram.com/yang1yang2",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Gymnastics",
+        }
+    },
+    {
+        id: 112,
+        name: "Choo Sung Hoon",
+        season: 1,
+        career: "Judoka / MMA Fighter",
+        career_category: "Fighter",
+        photo: "images/contestants/s1-choo-sung-hoon.png",
+        description: "A Korean-Japanese former judo athlete, current martial artist, and broadcaster. As a member of the Korean national team, he won a gold medal at the 2001 Asian Judo Championships, and as a member of the Japanese national team, he won a gold medal at the 2002 Asian Judo Championships. His MMA fighting style is Judo-based all-rounder. His fighting stance is orthodox (right-handed).",
+        body: "175cm / 84kg",
+        instagram: "https://www.instagram.com/akiyamachoo",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Martial Arts",
+        }
+    },
+    {
+        id: 113,
+        name: "Yun Sung Bin",
+        season: 1,
+        career: "Skeleton Racer",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-yun-sung-bin.png",
+        description: "A former South Korean skeleton athlete and the first Asian Olympic sledging gold medalist. He started skeleton in 2012 and won the World Cup in 3 years and 8 months, and rose to world number 1 in 5 years and 5 months. Then, 3 months later, at the 2018 Pyeongchang Winter Olympics held in South Korea , he won the first Asian Olympic sledging gold medal in 5 years and 8 months since starting skeleton. He is currently active as a YouTuber.",
+        body: "178cm / 90kg",
+        instagram: "https://www.instagram.com/top.physical",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Skeleton Racing",
+        }
+    },
+    {
+        id: 114,
+        name: "Agent H",
+        season: 1,
+        career: "Korea Navy UDT/SEAL Reservist",
+        career_category: "First Responder",
+        photo: "images/contestants/s1-agent-h.png",
+        description: "He is a YouTuber and businessman from UDT in South Korea . He is the CEO of Kick the Hurdle Studio.",
+        body: "174cm",
+        instagram: "https://www.instagram.com/udtbro/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Navy",
+        }
+    },
+    {
+        id: 115,
+        name: "Caro",
+        season: 1,
+        career: "Fitness YouTuber",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-caro.png",
+        description: "He is a YouTuber and his main content includes exercise, diet, restaurant reviews, and vlogs. He opened his own cross-training gym near Eonju Station in Gangnam-gu. The name of the gym is Sweat on Seoul. The workout plan is mainly led by CrossFitter Amotti, who is affiliated with Sweat on Seoul . Regular members who work out together include Junberry and Louie. In addition, he often works out with skeleton gold medalist Yun Seong-bin and workout YouTuber JigiTV . He also appeared in Physical Gallery 's Fake Men Season 2 and Kim Dong-hyun 's Maemi Kim TV's mixed martial arts experience content 'Fake Fighter.'",
+        body: "176cm / 82kg",
+        instagram: "https://www.instagram.com/kidocaro/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Functional Fitness",
+        }
+    },
+    {
+        id: 116,
+        name: "Jjang Jae",
+        season: 1,
+        career: "Korea Navy UDT/SEAL Reservist",
+        career_category: "First Responder",
+        photo: "images/contestants/s1-jjang-jae.jpeg",
+        description: "A South Korean military-related YouTuber . Served in the South Korean Navy 's Naval Special Warfare Flotilla. He almost became a UDT classmate (class 53-1) with Agent H, his MUSAT colleague. Agent H was forced to leave the 53-1st batch due to a collarbone injury during training, and immediately joined the 53-2nd batch after receiving treatment for his injury, so the two are not in the same class. Lee Geun, former director of MUSAT. He is a year ahead of his time. He said that after his discharge from UDT, he did what he wanted to do, but due to his family's financial situation, he worked as a maritime security agent and a land security agent in Somalia and Iraq for about 3 years as a PMC. He said that he received a lot of experience and good treatment during this time, but in return, he said that he sometimes almost died. After that, he worked as a health trainer in Korea and recently became a full-time YouTuber.",
+        body: "170cm / 90kg",
+        instagram: "https://www.instagram.com/saltyudt/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Navy",
+        }
+    },
+    {
+        id: 117,
+        name: "Shim Eu Ddeum",
+        season: 1,
+        career: "Pilates Instructor / YouTuber",
+        career_category: "First Responder",
+        photo: "images/contestants/s1-shim-eu-ddeum.png",
+        description: "She is a model, Pilates instructor, and YouTuber from South Korea. She used to be a bodybuilder and participated in several NABA competitions, but is now retired from the field.",
+        body: "164cm / 50kg",
+        instagram: "https://www.instagram.com/euddeume_/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Pilates",
+        }
+    },
+    {
+        id: 118,
+        name: "Kim Kang Min",
+        season: 1,
+        career: "Bodybuilder",
+        career_category: "Bodybuilder",
+        photo: "images/contestants/s1-kim-kang-min.png",
+        description: "He is a bodybuilder , YouTuber, and sports trainer affiliated with Naba Korea who currently runs a gym called Muscle Pro Gym in Bupyeong , Incheon . He has won the Naba Pro Championship five times and has become Naba Korea's star bodybuilder. His strength lies in his lower body muscles, which are among the best in Korea. He is very popular for his thorough self-management and humble attitude toward exercise, to the point where he maintains his body fat percentage under 10% even during the off-season, and he is also an influencer who has great influence in the bodybuilding industry.",
+        body: "171cm / 97kg",
+        instagram: "https://www.instagram.com/kang_min_kim/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Bodybuilding",
+        }
+    },
+    {
+        id: 119,
+        name: "Song Areum",
+        season: 1,
+        career: "Bodybuilder",
+        career_category: "Bodybuilder",
+        photo: "images/contestants/s1-song-areum.png",
+        description: "She runs the Bupyeong fitness center 'Muscle Pro Gym'. She is the wife of Kim Kang Min - another bodybuilder in season 1.",
+        body: "164cm",
+        instagram: "https://www.instagram.com/ssong_rme/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Bodybuilding",
+        }
+    },
+    {
+        id: 120,
+        name: "Cha Hyun Seung",
+        season: 1,
+        career: "Dancer",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-cha-hyun-seung.png",
+        description: "A former dancer in South Korea , he is currently working as a model and YouTuber, and is preparing to become an actor. He has been working with Sunmi as a dancer since her first solo, 24 Hours is Not Enough. At the time , he received attention with the nickname 'Shoulder Oppa' . He has been with Sunmi since she left JYP Entertainment and settled down with Abyss Company. In addition to Sunmi, he has also worked with Girls' Generation, TVXQ, BTOB, EXO, and SHINee's Jonghyun.",
+        body: "181cm / 82kg",
+        instagram: "https://www.instagram.com/502bright/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Dance",
+        }
+    },
+    {
+        id: 121,
+        name: "Lee Yong Seung",
+        season: 1,
+        career: "Bodybuilder",
+        career_category: "Bodybuilder",
+        photo: "images/contestants/s1-lee-yong-seung.png",
+        description: "Natural bodybuilder and YouTuber from Korea. He announced that he is a Life Time Natural and is a player with aspirations to advance to the Olympia as a Natural. Although he has a bulging biceps and fierce conditioning, he is not performing well in IFBB competitions, which are full of monsters, due to his small size and narrow frame compared to other players, and his chronic problem of thin legs. However, he is considered to be one of the top players among Korean natural players.",
+        body: "173cm / 80kg",
+        instagram: "https://www.instagram.com/korean_hercules_/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Bodybuilding",
+        }
+    },
+    {
+        id: 122,
+        name: "Kim Ye Hyun",
+        season: 1,
+        career: "Fencer",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-kim-ye-hyun.jpeg",
+        description: "South Korean bodybuilder and fitness model. Former fencing player. Representative of Fit and Hill.",
+        body: "176cm / 75kg",
+        instagram: "https://www.instagram.com/1f_okey/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Fencing",
+        }
+    },
+    {
+        id: 123,
+        name: "Kang Han",
+        season: 1,
+        career: "Bobsledder",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-kang-han.png",
+        description: "South Korean bobsled athlete . He started his career as a track and field athlete in 2010 when he was 12 years old, switched to kabaddi in 2016, and switched to bobsleigh in 2018, where he continues to be an athlete to this day.",
+        body: "189cm / 88kg",
+        instagram: "https://www.instagram.com/1f_okey/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Fencing",
+        }
+    },
+    {
+        id: 124,
+        name: "Kim Sung Jun",
+        season: 1,
+        career: "Fitness Model",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-kim-sung-jun.jpeg",
+        description: "Twin brother of fellow contestant Kim Sung Hun",
+        body: "",
+        instagram: "",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Modeling",
+        }
+    },
+    {
+        id: 125,
+        name: "Kim Sung Hun",
+        season: 1,
+        career: "Fitness Trainer",
+        career_category: "Other",
+        photo: "images/contestants/s1-kim-seong-hun.jpeg",
+        description: "Twin brother of fellow contestant Kim Sung Jun",
+        body: "",
+        instagram: "",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Fitness Training",
+        }
+    },
+    {
+        id: 126,
+        name: "Son Hee Chan",
+        season: 1,
+        career: "Ssireum Wrestler",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-son-hee-chan.png",
+        description: "He lost to a wrestling friend in the same class in the 5th grade of elementary school, and his competitive spirit was aroused, so he went to the wrestling club without thinking. He said that because he was small, they didn't accept him, but his competitive spirit was aroused again. He ended up joining the wrestling club after 3 days.",
+        body: "175cm / 80kg",
+        instagram: "https://www.instagram.com/heechanhh",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Wrestling",
+        }
+    },
+    {
+        id: 127,
+        name: "Son Hee Dong",
+        season: 1,
+        career: "Wrestler",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-son-hee-dong.jpeg",
+        description: "2020~ Samsung Life Insurance Wrestling Team. Awards: 2019 100th National Sports Festival Wrestling Greco-Roman 60kg 1st place. 2015 96th National Sports Festival Wrestling Greco-Roman 54kg 1st place",
+        body: "175cm / 80kg",
+        instagram: "https://www.instagram.com/sonhd11",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Wrestling",
+        }
+    },
+    {
+        id: 128,
+        name: "Kim Ji Han",
+        season: 1,
+        career: "Volleyball Player",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-kim-ji-han.png",
+        description: "Volleyball player for Seoul Woori Card WooriWON . Position is outside hitter. An offensive player who can play both outside hitter and opposite. His offensive power is very good. When he was a rookie at Hyundai Capital, Coach Choi Tae-woong paid attention to this point, and he actually showed a good performance when he came out as a substitute.",
+        body: "194cm / 80kg",
+        instagram: "https://www.instagram.com/kimjihan_10",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Volleyball",
+        }
+    },
+    {
+        id: 129,
+        name: "Yun Seok Hwan",
+        season: 1,
+        career: "Swimmer",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-yun-seok-hwan.jpeg",
+        description: "National swimmer for South Korea",
+        body: "181cm / 78kg",
+        instagram: "https://www.instagram.com/seok_hwan07",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Swimming",
+        }
+    },
+    {
+        id: 130,
+        name: "Kim Kyung Jin",
+        season: 1,
+        career: "Farmer / Influencer",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-kim-kyung-jin.png",
+        description: "He is famous for being a farmer with a great body. He used to be a sports model and trainer. Apperared in 2022 Over the Top; 2023 Physical: 100 (Season 1); 2023 The Best Business in the World 2; 2023 I am the body 2; 2024 HYPE Boy Scout",
+        body: "186cm",
+        instagram: "https://www.instagram.com/momjjangnongbu",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Farming",
+        }
+    },
+    {
+        id: 131,
+        name: "YoYo",
+        season: 1,
+        career: "Model",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-yoyo.jpeg",
+        description: "South Korean model, worked as Calvin Klein advertising model, Advertising Nepali Model, Advertising Casetify Model, Advertisement Aromatica Model, and more",
+        body: "171cm / 59kg",
+        instagram: "https://www.instagram.com/bad__yoyo",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Modeling",
+        }
+    },
+    {
+        id: 132,
+        name: "Kwak Myung Sik",
+        season: 1,
+        career: "Crossfitter",
+        career_category: "Crossfitter",
+        photo: "images/contestants/s1-kwak-myung-sik.jpeg",
+        description: "He originally worked as a mixed martial arts fighter, debuting as a professional fighter in August 2010 when he was 18 years old, and fought a total of 7 matches before retiring in 2013, with a total record of 2 wins and 5 losses. He retired from mixed martial arts after his last match in Japan in 2013, and entered CrossFit at the age of 22. Since then, with his skills improving rapidly, he has participated in the CrossFit Games every year since 2013, and in 2019 and 2020, he ranked 1st among Korean players, and is currently ranked 1st in Korea.",
+        body: "176cm / 81kg",
+        instagram: "",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Crossfit",
+        }
+    },
+    {
+        id: 133,
+        name: "Carlos",
+        season: 1,
+        career: "Crossfitter",
+        career_category: "Crossfitter",
+        photo: "images/contestants/s1-carlos.jpeg",
+        description: "Avid crossfitter. Lululemon Korea ambassador.",
+        body: "",
+        instagram: "https://www.instagram.com/carlos.sweats/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Crossfit",
+        }
+    },
+    {
+        id: 134,
+        name: "Park Jung Ho",
+        season: 1,
+        career: "Prison Guard",
+        career_category: "Other",
+        photo: "images/contestants/s1-park-jung-ho.jpeg",
+        description: "Correctional Officer",
+        body: "",
+        instagram: "https://www.instagram.com/cr.warm_heart/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Correctional Service",
+        }
+    },
+    {
+        id: 135,
+        name: "Kim Chun Ri",
+        season: 1,
+        career: "Bodybuilder",
+        career_category: "Bodybuilder",
+        photo: "images/contestants/s1-kim-chun-ri.jpeg",
+        description: "Bodybuilder. Previously appeared on 2020 DJ Wagon & Jay Park - Twist the plot (Feat. Kim Ximya ) Music Video.",
+        body: "",
+        instagram: "https://www.instagram.com/chunri.kim/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Bodybuilding",
+        }
+    },
+    {
+        id: 136,
+        name: "Kkang Mi",
+        season: 1,
+        career: "707 Reserve Sergeant",
+        career_category: "First Responder",
+        photo: "images/contestants/s1-kkang-mi.jpeg",
+        description: "A military-turned YouTuber who runs the 'Gang Raider' channel. The channel name is Kkang Raider, but the YouTuber's active name is Kkang Mi. She was commissioned asa special forces non-commissioned officer and worked for 8 years in the 707th Special Mission Battalion. She is aiming for comprehensive content focusing on self-defense techniques that can be used in various situations and survival skills learned through military life.",
+        body: "167cm / 60kg",
+        instagram: "https://www.instagram.com/kkang_raider/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Special Forces",
+        }
+    },
+    {
+        id: 137,
+        name: "An Da Jeong",
+        season: 1,
+        career: "Bodybuilder",
+        career_category: "Bodybuilder",
+        photo: "images/contestants/s1-an-da-jeong.png",
+        description: "She is the first Asian woman to advance to the 2020 Ms. Olympia Figure Finals and is the best female bodybuilder in Asian history, ranking 7th. After she started taking steroids, her entire body's muscles and skeleton became masculinized or enlarged to a level comparable to that of a man, giving her a flawless body. Among these muscles, she especially had very large lats comparable to those of a British bulldog and high-separation muscles. pectoralis major[2] This became an additional strength and attractive point.",
+        body: "163cm / 60kg",
+        instagram: "https://www.instagram.com/dajeong_ifbbpro/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Bodybuilding",
+        }
+    },
+    {
+        id: 138,
+        name: "Park Min Ji",
+        season: 1,
+        career: "Ssireum Wrestler",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-park-min-ji.jpeg",
+        description: "South Korean wrestler. Member of Yeongdong County Office Wrestling Team.",
+        body: "174cm / 70kg",
+        instagram: "https://www.instagram.com/_miing.g",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Wrestling",
+        }
+    },
+    {
+        id: 139,
+        name: "Jang Eun Sil",
+        season: 1,
+        career: "Wrestler",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-jang-eun-sil.png",
+        description: "South Korea's national wrestling team, CrossFit, and wrestling athlete.",
+        body: "171cm / 62kg",
+        instagram: "https://www.instagram.com/sillllling",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Wrestling",
+        }
+    },
+    {
+        id: 140,
+        name: "Park Joo Chang (Mud Cup)",
+        season: 1,
+        career: "Restaurant CEO / YouTuber",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-mud-cup.png",
+        description: "South Korean former bodybuilder and YouTuber. He puts a lot of heart into each video comment and attaches great importance to communication with viewers. Naver search says he was born in Seoul, but he lives in Incheon.",
+        body: "172cm / 70kg",
+        instagram: "https://www.instagram.com/bbulkup",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Business Operations",
+        }
+    },
+    {
+        id: 141,
+        name: "Ma Sun Ho",
+        season: 1,
+        career: "Bodybuilder",
+        career_category: "Bodybuilder",
+        photo: "images/contestants/s1-ma-sun-ho.jpeg",
+        description: "He is one of the most famous figures in the bodybuilding industry. With his unique friendliness and sociability, he is close with many exercise YouTubers, and after gaining public recognition with Physique 100, he has actively appeared in various entertainment programs such as Cheonha Jeil Jangsa and Body Things. He also frequently appears in Kim Jong-guk 's Jim Jong-guk YouTube channel as an assistant, and his popularity is gradually increasing due to his wit and sense of humor.",
+        body: "175cm / 80kg",
+        instagram: "https://www.instagram.com/natural_masunho",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Bodybuilder",
+        }
+    },
+    {
+        id: 142,
+        name: "Kang Chun Il",
+        season: 1,
+        career: "Dancer / Pilates Instructor",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-kang-chun-il.jpeg",
+        description: "Performer on the musical 'Wild Wild' and a contestant on the dating show 'Pink Lie'.",
+        body: "175cm / 80kg",
+        instagram: "https://www.instagram.com/chunil.kang/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Dance",
+        }
+    },
+    {
+        id: 143,
+        name: "Park Hyung Keun",
+        season: 1,
+        career: "MMA Fighter",
+        career_category: "Fighter",
+        photo: "images/contestants/s1-park-hyung-keun.png",
+        description: "He is from the 3rd season of Fist of Crying . As his nickname 'Close-up Fighter' suggests,BaselessHe became popular as a braggadocio character full of confidence.",
+        body: "175cm / 72kg",
+        instagram: "https://www.instagram.com/park_hyungkeun/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "MMA",
+        }
+    },
+    {
+        id: 144,
+        name: "Jo Jin Hyeong",
+        season: 1,
+        career: "Car Dealer",
+        career_category: "Other",
+        photo: "images/contestants/s1-jo-jin-hyeong.png",
+        description: "The Strongman Season 1 Final Winner. He made it to 4th place in Physical 100 Season 1.",
+        body: "183cm / 132.1kg",
+        instagram: "https://www.instagram.com/rornfl82/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Heavy Lifting",
+        }
+    },
+    {
+        id: 145,
+        name: "Miracle Nelson",
+        season: 1,
+        career: "Dancer",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-miracle.jpeg",
+        description: "Dancer of Season 1. He is also a bodybuilder.",
+        body: "",
+        instagram: "https://www.instagram.com/itz_mkay/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Dance",
+        }
+    },
+    {
+        id: 146,
+        name: "Kim Ji Wook",
+        season: 1,
+        career: "Diver",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-kim-ji-wook.jpeg",
+        description: "He is a South Korean male diver and model. He is also active as an Instagram influencer. As of the 2022 National Sports Festival in October, he is affiliated with the Korea Sports Promotion Foundation.",
+        body: "174cm / 67kg",
+        instagram: "https://www.instagram.com/kimjiwook_01/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Diving",
+        }
+    },
+    {
+        id: 147,
+        name: "Seong Chi Hyeon",
+        season: 1,
+        career: "Casino Dealer",
+        career_category: "Other",
+        photo: "images/contestants/s1-seong-chi-hyeon.jpeg",
+        description: "Sung Chi-hyeon (Evan) is a South Korean bodybuilder , internet broadcaster, and casino dealer. In 2022, he opened a YouTube channel and began Internet broadcasting activities, and became famous for appearing in Physical: 100 in 2023. YouTube runs the Choi Banchoi channel, which is an abbreviation for 'If the best is repeated, the best becomes the best,' and the main content is exercise. The first video was uploaded on July 18, 2022, on the 1st day of the home workout.",
+        body: "182cm / 84kg",
+        instagram: "https://www.instagram.com/evan.seong__/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Basketball",
+        }
+    },
+    {
+        id: 148,
+        name: "Joo Dong Jo",
+        season: 1,
+        career: "MMA Fighter",
+        career_category: "Fighter",
+        photo: "images/contestants/s1-joo-dong-jo.png",
+        description: "He is a South Korean mixed martial arts fighter. Director Yang is a TV YouTube comedian.",
+        body: "163cm / 67kg",
+        instagram: "https://www.instagram.com/joodongjo/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "MMA",
+        }
+    },
+    {
+        id: 149,
+        name: "Lee Ju Hyung",
+        season: 1,
+        career: "Ice Hockey Player",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-lee-ju-hyung.jpg",
+        description: "He started playing ice hockey when I was 7 years old. Afterwards, he attended Jungdong Middle School, Gyeonggi High School, and Yonsei University before joining Anyang Halla in 2020. On November 5, 2020, he scored his first goal in his debut match against High1 at the Yuhan Cheolbae Ice Hockey Tournament.",
+        body: "183cm / 90kg",
+        instagram: "",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Ice Hockey",
+        }
+    },
+    {
+        id: 150,
+        name: "Seo Ha Yan",
+        season: 1,
+        career: "Crossfitter",
+        career_category: "Crossfitter",
+        photo: "images/contestants/s1-seo-ha-yan.jpg",
+        description: "No information about her currently",
+        body: "",
+        instagram: "https://www.instagram.com/s__hayan/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Crossfit",
+        }
+    },
+    {
+        id: 151,
+        name: "Choi Kyu Tae",
+        season: 1,
+        career: "Ballerino",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-choi-kyu-tae.jpg",
+        description: "No information about him currently",
+        body: "",
+        instagram: "https://www.instagram.com/choikyutae/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Ballet",
+        }
+    },
+    {
+        id: 152,
+        name: "Choi Min Yong",
+        season: 1,
+        career: "Marathon Runner",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-choi-min-yong.png",
+        description: "His best times: 10km 29:54 half 1:04:44 full 2:16:19",
+        body: "175cm / 58kg",
+        instagram: "https://www.instagram.com/5g9yo/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Long Distance Running",
+        }
+    },
+    {
+        id: 153,
+        name: "Choi In Ho",
+        season: 1,
+        career: "Trainer",
+        career_category: "Other",
+        photo: "images/contestants/s1-choi-in-ho.png",
+        description: "SQ 260, BP 200, DL 300. Jiu Jitsu Blue Belt.",
+        body: "",
+        instagram: "https://www.instagram.com/akabigsimon/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Weightlifting",
+        }
+    },
+    {
+        id: 154,
+        name: "Florian Krapf",
+        season: 1,
+        career: "Model",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-florian.jpg",
+        description: "A German model and broadcaster active in South Korea . He was also the first foreign guest on Hellchang TV . He is currently independent, but in the beginning he appeared frequently and showed a different personality from other health YouTubers with his fluent Korean , cheerful personality, and unique appearance . The name of his personal channel changes periodically. German Geun-dwae → Midoknam (Crazy German Man) → German-Korean Baby 'Dokhan Saekki ' → He currently operates his channel under his own name, Florian Florian .",
+        body: "181cm / 84kg",
+        instagram: "https://www.instagram.com/florian.korea/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "TV Personality",
+        }
+    },
+    {
+        id: 155,
+        name: "Gil Hwan",
+        season: 1,
+        career: "Scuba Diver",
+        career_category: "Other",
+        photo: "images/contestants/s1-gil-hwan.png",
+        description: "Primary occupation: scuba diver. Secondary occupation: YouTube. The main video is Jeju Vlog , and other videos are about home training or exercise. I make video titles and thumbnails that female viewers would like. For example, how to be loved by your girlfriend!, bridal classes... mopping, cooking, laundry, daily exercise, etc.",
+        body: "178cm / 75kg",
+        instagram: "https://www.instagram.com/Hbro_gh/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Scuba Diving",
+        }
+    },
+    {
+        id: 156,
+        name: "Kim Min Cheol",
+        season: 1,
+        career: "Ice Climber / Rescue Ranger",
+        career_category: "First Responder",
+        photo: "images/contestants/s1-kim-min-cheol.jpg",
+        description: "He is a member of the South Korean national ice climbing team and a member of the National Park Service's special mountain rescue team.",
+        body: "175cm / 71kg",
+        instagram: "https://www.instagram.com/kmc_1203_/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Climbing",
+        }
+    },
+    {
+        id: 157,
+        name: "Kim Byeong Jin",
+        season: 1,
+        career: "Taekwondo Athlete",
+        career_category: "Athlete",
+        photo: "images/contestants/s1-kim-byeong-jin.png",
+        description: "He is the national Taekwondo representative of Korea.",
+        body: "",
+        instagram: "https://www.instagram.com/mirme_jjin/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Taekwondo",
+        }
+    },
+    {
+        id: 158,
+        name: "Kim Sang Wook",
+        season: 1,
+        career: "MMA Fighter",
+        career_category: "Fighter",
+        photo: "images/contestants/s1-kim-sang-wook.png",
+        description: "South Korean mixed martial artist and AFC Angels Fighting Welterweight Champion . A former member of the Navy Special Warfare Group (UDT/SEAL). He is famous for being a disciple of Kim Dong-hyeon. On January 11, 2020, he debuted as a professional mixed martial arts player through the ZFC 003 competition, and made his name known to the public by appearing as a member of the UDT team on Channel A / SKY 's military survival program Steel Unit, which began airing in 2021. Currently, his face and name are becoming more known to the public by appearing in the show The Boss's Ears Are Donkey Ears, which is airing on KBS2.",
+        body: "183cm / 77kg",
+        instagram: "https://www.instagram.com/seal_103/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Jiu Jitsu",
+        }
+    },
+    {
+        id: 159,
+        name: "Kim Eun Ji",
+        season: 1,
+        career: "Fitness Model",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-kim-eun-ji.png",
+        description: "Fitness athlete from Muscle Mania. Also a bodybuilder, fitness model, and YouTuber.",
+        body: "172cm",
+        instagram: "https://www.instagram.com/hipsqueen_/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Bodybuilding",
+        }
+    },
+    {
+        id: 160,
+        name: "Kim Jeong Uk",
+        season: 1,
+        career: "Restaurant CEO",
+        career_category: "Other",
+        photo: "images/contestants/s1-kim-jeong-uk.png",
+        description: "He is a fitness model and CEO of a restaurant business in South Korea . He is the CEO of Jackson Invast Co., Ltd.",
+        body: "177cm",
+        instagram: "https://www.instagram.com/jjackson__classic/",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Bodybuilding",
         }
     },
 ]
