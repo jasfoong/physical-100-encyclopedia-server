@@ -2166,7 +2166,7 @@ module.exports = [
     },
     {
         id: 140,
-        name: "Park Joo Chang (Mud Cup)",
+        name: "Park Joo Chang (Mud Cup / Bbulkup)",
         season: 1,
         career: "Restaurant CEO / YouTuber",
         career_category: "Entertainer",
@@ -3165,6 +3165,23 @@ module.exports = [
             endurance: 0,
             speed: 0,
             special_skills: "MMA",
+        }
+    },
+    {
+        id: 198,
+        name: "Lee Guk Young",
+        season: 1,
+        career: "Actor",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-lee-guk-young.png",
+        description: "He is a South Korean musical actor and fitness model. He participated in Tomorrow's National Singer as a member of the 3XY team.",
+        body: "185cm / 75kg",
+        instagram: "https://www.instagram.com/real_leekugyoung",
+        stats: {
+            strength: 0,
+            endurance: 0,
+            speed: 0,
+            special_skills: "Musical Acting",
         }
     },
 ]
