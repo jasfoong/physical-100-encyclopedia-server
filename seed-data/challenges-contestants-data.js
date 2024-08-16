@@ -1404,9 +1404,6 @@ module.exports = [
         challenge_id: 11, contestant_id: 170, won: true
     },
     {
-        challenge_id: 11, contestant_id: 144, won: true
-    },
-    {
         challenge_id: 11, contestant_id: 146, won: false
     },
     {
@@ -1455,9 +1452,6 @@ module.exports = [
         challenge_id: 11, contestant_id: 172, won: false
     },
     {
-        challenge_id: 11, contestant_id: 178, won: false
-    },
-    {
         challenge_id: 11, contestant_id: 115, won: false
     },
     {
@@ -1471,9 +1465,6 @@ module.exports = [
     },
     {
         challenge_id: 11, contestant_id: 134, won: false
-    },
-    {
-        challenge_id: 11, contestant_id: 194, won: false
     },
     {
         challenge_id: 11, contestant_id: 176, won: false
