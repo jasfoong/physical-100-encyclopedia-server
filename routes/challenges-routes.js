@@ -8,6 +8,5 @@ router
 router
     .route("/:id")
     .get(challengesController.findOne)
-    .put(challengesController.update)
 
 module.exports = router;
