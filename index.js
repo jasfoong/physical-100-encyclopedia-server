@@ -8,7 +8,13 @@ const challengesWonRoute = require("./routes/challenges-won-routes");
 const challengesLostRoute = require("./routes/challenges-lost-routes")
 const PORT = process.env.PORT || 5050;
 
-app.use(cors());
+const corsOptions = {
+    origin: "https://physical100encyclopedia.netlify.app/",
+    methods: ['GET'],
+    credentials: true,
+};
+
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use(express.static("public"));
 
