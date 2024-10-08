@@ -9,7 +9,7 @@ const challengesLostRoute = require("./routes/challenges-lost-routes")
 const PORT = process.env.PORT || 5050;
 
 const corsOptions = {
-    origin: "https://physical100encyclopedia.netlify.app/",
+    origin: "https://physical100encyclopedia.netlify.app",
     methods: ['GET'],
     credentials: true,
 };
