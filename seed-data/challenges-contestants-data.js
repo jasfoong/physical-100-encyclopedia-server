@@ -1841,16 +1841,688 @@ module.exports = [
     {
         challenge_id: 10, contestant_id: 198, won: false
     },
-
-
-
-    /*
-    hanging id 10
-    winners
-    Kim Min-cheol 156
-    Kim Kyung baek 188
-
-    losers
-    everyone
-    */
+    {
+        challenge_id: 24, contestant_id: 226, won: true
+    },
+    {
+        challenge_id: 24, contestant_id: 227, won: true
+    },
+    {
+        challenge_id: 24, contestant_id: 228, won: true
+    },
+    {
+        challenge_id: 24, contestant_id: 229, won: true
+    },
+    {
+        challenge_id: 24, contestant_id: 230, won: true
+    },
+    {
+        challenge_id: 24, contestant_id: 231, won: true
+    },
+    {
+        challenge_id: 24, contestant_id: 199, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 200, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 201, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 202, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 203, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 204, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 205, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 206, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 207, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 208, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 209, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 210, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 211, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 212, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 213, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 214, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 215, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 216, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 217, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 218, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 219, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 220, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 221, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 222, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 223, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 224, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 232, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 233, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 234, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 235, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 236, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 237, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 238, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 239, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 240, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 241, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 242, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 243, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 8, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 1, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 139, won: false
+    },
+    {
+        challenge_id: 24, contestant_id: 113, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 226, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 227, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 228, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 229, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 230, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 231, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 199, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 200, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 201, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 202, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 203, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 204, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 205, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 206, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 207, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 208, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 209, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 210, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 211, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 212, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 213, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 214, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 215, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 216, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 217, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 218, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 219, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 220, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 221, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 222, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 223, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 225, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 232, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 233, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 234, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 235, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 236, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 237, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 238, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 239, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 250, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 251, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 252, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 253, won: false
+    },
+    {
+        challenge_id: 25, contestant_id: 8, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 1, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 139, won: true
+    },
+    {
+        challenge_id: 25, contestant_id: 113, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 238, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 239, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 250, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 251, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 252, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 253, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 207, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 208, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 209, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 210, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 211, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 212, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 201, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 202, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 203, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 204, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 205, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 206, won: true
+    },
+    {
+        challenge_id: 26, contestant_id: 219, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 220, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 221, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 222, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 223, won: false
+    },
+    {
+        challenge_id: 26, contestant_id: 224, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 232, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 233, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 234, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 235, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 236, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 237, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 199, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 200, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 8, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 1, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 113, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 139, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 239, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 240, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 241, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 242, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 243, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 244, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 213, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 214, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 215, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 216, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 217, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 218, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 201, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 202, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 203, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 204, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 205, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 206, won: true
+    },
+    {
+        challenge_id: 27, contestant_id: 226, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 227, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 228, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 229, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 230, won: false
+    },
+    {
+        challenge_id: 27, contestant_id: 231, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 201, won: true
+    },
+    {
+        challenge_id: 28, contestant_id: 202, won: true
+    },
+    {
+        challenge_id: 28, contestant_id: 203, won: true
+    },
+    {
+        challenge_id: 28, contestant_id: 204, won: true
+    },
+    {
+        challenge_id: 28, contestant_id: 205, won: true
+    },
+    {
+        challenge_id: 28, contestant_id: 206, won: true
+    },
+    {
+        challenge_id: 28, contestant_id: 232, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 233, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 234, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 235, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 236, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 237, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 213, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 214, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 215, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 216, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 217, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 218, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 199, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 200, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 1, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 8, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 139, won: false
+    },
+    {
+        challenge_id: 28, contestant_id: 113, won: false
+    },
+    {
+        challenge_id: 29, contestant_id: 232, won: false
+    },
+    {
+        challenge_id: 29, contestant_id: 233, won: false
+    },
+    {
+        challenge_id: 29, contestant_id: 234, won: false
+    },
+    {
+        challenge_id: 29, contestant_id: 235, won: false
+    },
+    {
+        challenge_id: 29, contestant_id: 236, won: false
+    },
+    {
+        challenge_id: 29, contestant_id: 237, won: false
+    },
+    {
+        challenge_id: 29, contestant_id: 213, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 214, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 215, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 216, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 217, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 218, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 199, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 200, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 1, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 8, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 139, won: true
+    },
+    {
+        challenge_id: 29, contestant_id: 113, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 213, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 214, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 215, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 216, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 217, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 218, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 199, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 200, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 1, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 8, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 139, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 113, won: true
+    },
+    {
+        challenge_id: 30, contestant_id: 201, won: false
+    },
+    {
+        challenge_id: 30, contestant_id: 202, won: false
+    },
+    {
+        challenge_id: 30, contestant_id: 203, won: false
+    },
+    {
+        challenge_id: 30, contestant_id: 204, won: false
+    },
+    {
+        challenge_id: 30, contestant_id: 205, won: false
+    },
+    {
+        challenge_id: 30, contestant_id: 206, won: false
+    },
+    {
+        challenge_id: 31, contestant_id: 213, won: false
+    },
+    {
+        challenge_id: 31, contestant_id: 214, won: false
+    },
+    {
+        challenge_id: 31, contestant_id: 215, won: false
+    },
+    {
+        challenge_id: 31, contestant_id: 216, won: false
+    },
+    {
+        challenge_id: 31, contestant_id: 217, won: false
+    },
+    {
+        challenge_id: 31, contestant_id: 218, won: false
+    },
+    {
+        challenge_id: 31, contestant_id: 199, won: true
+    },
+    {
+        challenge_id: 31, contestant_id: 200, won: true
+    },
+    {
+        challenge_id: 31, contestant_id: 1, won: true
+    },
+    {
+        challenge_id: 31, contestant_id: 8, won: true
+    },
+    {
+        challenge_id: 31, contestant_id: 139, won: true
+    },
+    {
+        challenge_id: 31, contestant_id: 113, won: true
+    },
 ]

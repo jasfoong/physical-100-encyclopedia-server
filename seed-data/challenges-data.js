@@ -183,4 +183,68 @@ module.exports = [
         photo: "images/challenges/s1-q5.4-infinite-rope-pull.jpg",
         description: "The final game was infinite rope-pulling. The two contestants had to pull their rope until it was loose, grab the other end of the rope, and then destroy their opponent's torso. Woo Jin-yong won the final game and thus won Physical: 100, while Jung Hae-min was eliminated."
     },
+    {
+        id: 24,
+        name: "Territorial Conquest",
+        season: 3,
+        team: true,
+        photo: "images/challenges/s3-q1-territorial-conquest.png",
+        description: "In this team-based challenge, all teams compete simultaneously to capture and hold one of four raised platforms on a sand dune. Each round lasts for two minutes. At the end of the time limit, the team with the most members standing on a platform wins the round. If teams have an equal number of members on a platform, a rematch is held. The final winning team earns the reward of deciding the matchups for the next quest."
+    },
+    {
+        id: 25,
+        name: "Shipwreck Salvage",
+        season: 3,
+        team: true,
+        photo: "images/challenges/s3-q2.1-shipwreck-salvage.jpg",
+        description: "The challenge requires teams to haul salvaged cargo from a shipwreck to a designated collection point within a 20-minute time limit. The team that accumulates the greatest total weight of cargo by the end of the time limit wins the match and advances to the next round, while the losing team is eliminated."
+    },
+    {
+        id: 26,
+        name: "Deathmatch",
+        season: 3,
+        team: true,
+        photo: "images/challenges/s3-q2.2-deathmatch.png",
+        description: "Bottom 4 teams from the Shipwreck Salvage challenge compete to stay in the competition. Matches are conducted in both 1 vs 1 and 2 vs 2 formats, alternating each round. The objective is to place the ball inside the opponent's box within three minutes. The first team to score wins the round. The competing teams were Thailand vs Philippines, and Japan vs Indonesia. Japan won."
+    },
+    {
+        id: 27,
+        name: "Team Representative Challenge",
+        season: 3,
+        team: true,
+        photo: "images/challenges/s3-q3-team-representative.jpg",
+        description: "Quest 3 consisted of four individual game challenges. 1) Sack Toss: One player from each team tossed a 14 kg sack over a 4-meter hurdle repeatedly within 30 seconds until the other two competitors failed. After every ten laps, the sack's weight increased and the time limit was shortened. 2) Hanging Endurance: One player from each team hung from fabric strips for as long as possible. 3) Stone Totem Endurance: Two players from each team stood back-to-back, supporting two stone totems weighing 135 kg each. 4) Pillar Vaulting: Two runners from each team completed ten vault laps, with the second runner finishing by grabbing a flag."
+    },
+    {
+        id: 28,
+        name: "Battle Rope Relay",
+        season: 3,
+        team: true,
+        photo: "images/challenges/s3-q4-battle-rope-relay.jpg",
+        description: "Each team selected three representatives to participate. The event consisted of two rounds, with the team achieving the highest total score advancing directly to the semifinals, while the remaining teams competed in a Death Match for survival. In Round 1, each player struck targets with two battle ropes for 5 minutes total, switching teammates every 5 minutes. In Round 2, they did the same, but for a total of 4 minutes."
+    },
+    {
+        id: 29,
+        name: "Pillar Push",
+        season: 3,
+        team: true,
+        photo: "images/challenges/s3-q4.2-pillar-push.png",
+        description: "The three teams that did not advance competed in a Pillar Push Death Match, a challenge designed to eliminate one team before the semifinals. In this event, teams were required to push a 1,200 kg steel pillar for 100 laps. Three members from each team who did not participate in the previous match were required to compete in this event."
+    },
+    {
+        id: 30,
+        name: "Castle Conquest",
+        season: 3,
+        team: true,
+        photo: "images/challenges/s3-q5-castle-conquest.png",
+        description: "Teams were required to transport an 800 kg, four-wheeled carriage loaded with 1.4 tonnes of cargo. The sequence of tasks was as follows: 1) Pull the heavy carriage across a sand-covered approach. 2) Breach the castle's main door by breaking it down, either using the provided log or any other tools or methods they could devise. 3) Cross a designated finish line inside the castle with the carriage, ensuring all 1.4 tonnes of cargo were still loaded. 4) Fully raise the castle's 880 kg bridge gate using a rope system to secure the entrance. 5) The winner was the team that completed the entire sequence in the shortest time."
+    },
+    {
+        id: 31,
+        name: "Final Quest",
+        season: 3,
+        team: true,
+        photo: "images/challenges/s3-q6-final-quest.png",
+        description: "The finale was a best-of-three series between the last two teams. Game 1: Wall Pushing. Teams competed to push weighted boxes on three parallel lanes (100 kg, 200 kg, and 300 kg) against their opponents. Each round had a three-minute time limit, and winning a round required securing two of the three lanes by pushing the boxes into the opponent's territory. Game 2: Iron Ball Dragging. The goal was to work together to drag this shared load a set distance within a three-minute time limit. The total weight increased each round, scaled proportionally to each team's average weight. A single failure in any round meant losing the entire game. If both teams succeeded in all five rounds, a final, simultaneous tie-breaker round determined the winner by speed."
+    },
 ]
