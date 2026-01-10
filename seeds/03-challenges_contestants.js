@@ -6,6 +6,10 @@
 const challengesContestantsData = require("../seed-data/challenges-contestants-data")
 
 exports.seed = async function(knex) {
-    await knex('challenges_contestants').del();
-    await knex('challenges_contestants').insert(challengesContestantsData);
+  await knex.raw('SET FOREIGN_KEY_CHECKS = 0');
+  await knex('challenges_contestants').truncate();
+  await knex.raw('SET FOREIGN_KEY_CHECKS = 1');
+
+  await knex('challenges_contestants').insert(challengesContestantsData);
 };
+
