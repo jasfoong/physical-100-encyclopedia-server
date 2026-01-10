@@ -3104,22 +3104,6 @@ module.exports = [
         }
     },
     {
-        id: 199,
-        name: "Choi Sung Hyuk",
-        season: 1,
-        career: "Pole Dancer",
-        career_category: "Entertainer",
-        photo: "images/contestants/s1-choi-sung-hyuk.png",
-        description: "Add information about Choi here",
-        instagram: "",
-        stats: {
-            height_cm: 0,
-            weight_kg: 0,
-            gender: "Male",
-            special_skills: "Pole Dancing",
-        }
-    },
-    {
         id: 195,
         name: "Ko Da Young",
         season: 1,
@@ -3185,18 +3169,18 @@ module.exports = [
     },
     {
         id: 199,
-        name: "Choi Seung Yeon",
-        season: 3,
-        career: "Crossfitter",
-        career_category: "Crossfitter",
-        photo: "images/contestants/s3-choi-seung-yeon.png",
-        description: "She is the first South Korean athlete to compete in the International CrossFit Games more than twice. She ranked top 3 among female CrossFit competitors from Asia in 2021, 2022, 2024, and 2025.",
-        instagram: "https://www.instagram.com/seungyeon_choi_",
+        name: "Choi Sung Hyuk",
+        season: 1,
+        career: "Pole Dancer",
+        career_category: "Entertainer",
+        photo: "images/contestants/s1-choi-sung-hyuk.png",
+        description: "Add information about Choi here",
+        instagram: "",
         stats: {
-            height_cm: 168,
-            weight_kg: 70,
-            gender: "Female",
-            special_skills: "Crossfit",
+            height_cm: 0,
+            weight_kg: 0,
+            gender: "Male",
+            special_skills: "Pole Dancing",
         }
     },
     {
@@ -3916,6 +3900,22 @@ module.exports = [
             height_cm: 172,
             weight_kg: 84,
             gender: "Male",
+            special_skills: "Crossfit",
+        }
+    },
+    {
+        id: 245,
+        name: "Choi Seung Yeon",
+        season: 3,
+        career: "Crossfitter",
+        career_category: "Crossfitter",
+        photo: "images/contestants/s3-choi-seung-yeon.png",
+        description: "She is the first South Korean athlete to compete in the International CrossFit Games more than twice. She ranked top 3 among female CrossFit competitors from Asia in 2021, 2022, 2024, and 2025.",
+        instagram: "https://www.instagram.com/seungyeon_choi_",
+        stats: {
+            height_cm: 168,
+            weight_kg: 70,
+            gender: "Female",
             special_skills: "Crossfit",
         }
     },

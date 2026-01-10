@@ -1860,7 +1860,7 @@ module.exports = [
         challenge_id: 24, contestant_id: 231, won: true
     },
     {
-        challenge_id: 24, contestant_id: 199, won: false
+        challenge_id: 24, contestant_id: 245, won: false
     },
     {
         challenge_id: 24, contestant_id: 200, won: false
@@ -2004,7 +2004,7 @@ module.exports = [
         challenge_id: 25, contestant_id: 231, won: true
     },
     {
-        challenge_id: 25, contestant_id: 199, won: true
+        challenge_id: 25, contestant_id: 245, won: true
     },
     {
         challenge_id: 25, contestant_id: 200, won: true
@@ -2220,7 +2220,7 @@ module.exports = [
         challenge_id: 27, contestant_id: 237, won: true
     },
     {
-        challenge_id: 27, contestant_id: 199, won: true
+        challenge_id: 27, contestant_id: 245, won: true
     },
     {
         challenge_id: 27, contestant_id: 200, won: true
@@ -2364,7 +2364,7 @@ module.exports = [
         challenge_id: 28, contestant_id: 218, won: false
     },
     {
-        challenge_id: 28, contestant_id: 199, won: false
+        challenge_id: 28, contestant_id: 245, won: false
     },
     {
         challenge_id: 28, contestant_id: 200, won: false
@@ -2418,7 +2418,7 @@ module.exports = [
         challenge_id: 29, contestant_id: 218, won: true
     },
     {
-        challenge_id: 29, contestant_id: 199, won: true
+        challenge_id: 29, contestant_id: 245, won: true
     },
     {
         challenge_id: 29, contestant_id: 200, won: true
@@ -2454,7 +2454,7 @@ module.exports = [
         challenge_id: 30, contestant_id: 218, won: true
     },
     {
-        challenge_id: 30, contestant_id: 199, won: true
+        challenge_id: 30, contestant_id: 245, won: true
     },
     {
         challenge_id: 30, contestant_id: 200, won: true
@@ -2508,7 +2508,7 @@ module.exports = [
         challenge_id: 31, contestant_id: 218, won: false
     },
     {
-        challenge_id: 31, contestant_id: 199, won: true
+        challenge_id: 31, contestant_id: 245, won: true
     },
     {
         challenge_id: 31, contestant_id: 200, won: true
